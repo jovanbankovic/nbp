@@ -1,0 +1,8 @@
+[2021-01-12 17:38:17] [info]  [32532] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2021-01-12 17:38:17] [info]  [32532] Service neo4j name Neo4j Graph Database - neo4j
+[2021-01-12 17:38:17] [info]  [32532] Service 'neo4j' installed
+[2021-01-12 17:38:17] [info]  [32532] Commons Daemon procrun finished
+[2021-01-12 17:38:25] [info]  [26344] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2021-01-12 17:38:25] [info]  [26344] Running 'neo4j' Service...
+[2021-01-12 17:38:25] [info]  [26424] Starting service...
+[2021-01-12 17:38:27] [info]  [26424] Service started in 1149 ms.

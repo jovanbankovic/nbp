@@ -1,0 +1,8 @@
+
+2021-01-16 21:27:50 Commons Daemon procrun stdout initialized
+2021-01-16 20:27:51.714+0000 WARN  Unknown config option: dbms.allow_single_automatic_upgrade
+2021-01-16 20:27:51.757+0000 INFO  ======== Neo4j 3.3.0 ========
+2021-01-16 20:27:51.796+0000 INFO  Starting...
+2021-01-16 20:27:54.761+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2021-01-16 20:27:58.605+0000 INFO  Started.
+2021-01-16 20:27:59.334+0000 INFO  Remote interface available at http://localhost:7474/
